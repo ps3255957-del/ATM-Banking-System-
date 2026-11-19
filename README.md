@@ -21,4 +21,4 @@ ATM Banking System Using C Programming
 Compile and run atm.c using a C compiler.
 
 ## Author
-Student Project
+  Ekta Soni Project
